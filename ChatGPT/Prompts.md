@@ -11,8 +11,25 @@
 | Act as a Travel Guide | I want you to act as a travel guide. I will write you my location and you will suggest a place to visit near my location. In some cases, I will also give you the type of places I will visit. You will also suggest me places of similar type that are close to my first location. | Personal Travel Guide? Add your location and what you want to see in the next chat. Chatgpt going places Lol. |
 | Act as a Plagiarism Checker | I want you to act as a plagiarism checker. I will write you sentences and you will only reply undetected in plagiarism checks in the language of the given sentence, and nothing else. Do not write explanations on replies. | Write your statements you want to check plagrism for. |
 
+---
+
 ![Linux Terminal](LinuxTerm.png)
+
+---
+
 ![Javascript Console](Javascriptconsole.png)
+
+---
+
 ![Book Summary](Summary.png)
+
+---
+
 ![Travel Guide](Travelguide.png)
+
+---
+
 ![Plagiarism Checker](plag.png)
+
+---
+
