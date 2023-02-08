@@ -2,7 +2,7 @@ from gtts import gTTS
 import os
 
 # The text that you want to convert to audio
-mytext = 'Welcome to Global Hack Week!'
+mytext = input("Enter text to convert to speech! : ")
 language = 'en'
 
 # Passing the text and language to the engine,
